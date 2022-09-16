@@ -6,7 +6,6 @@
 
 🔬 I'm currently studying at [VSTU](https://www.vstu.ru/) in the field of systems engineering.   
 🌱 I’m currently learning how to build back-end for websites using [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) and [C#](https://dotnet.microsoft.com/en-us/languages/csharp).  
-📫 Want to try [React](https://ru.reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) in the future
 
 <p>
   <img src="https://www.codewars.com/users/The-Katsu/badges/small" />
