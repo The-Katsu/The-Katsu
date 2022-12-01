@@ -6,6 +6,7 @@
 
 🔬 I'm currently studying at [VSTU](https://www.vstu.ru/) in the field of systems engineering.   
 🌱 I’m currently learning how to build back-end for websites using [C#](https://learn.microsoft.com/ru-ru/dotnet/csharp/) and [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet).  
+📫 Want to try [React](https://ru.reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) in the future
 
 ## Things I code with 🔭
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
