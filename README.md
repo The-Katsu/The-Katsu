@@ -13,7 +13,7 @@
   
 ## My pet projects 🚧  
 [📁 Folder Size Explorer](https://github.com/The-Katsu/FolderSizeExplorer) - fx 4.8, WPF, MVVM.  
-[🔫 Blazor And Morty](https://github.com/The-Katsu/BlazorAndMorty) - net 7, Blazor WASM, GraphQL.Client
+[🔫 Rick And Morty Wiki](https://github.com/The-Katsu/RickAndMortyWiki) - net 7, Blazor WASM, GraphQL.Client
 
 ##  Fun fact ⚡
 
