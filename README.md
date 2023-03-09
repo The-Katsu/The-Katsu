@@ -12,8 +12,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
 ## My pet projects 🚧  
+[🔫 Rick And Morty Wiki](https://github.com/The-Katsu/RickAndMortyWiki) - net 7, Blazor WASM, GraphQL.Client  
 [📁 Folder Size Explorer](https://github.com/The-Katsu/FolderSizeExplorer) - fx 4.8, WPF, MVVM.  
-[🔫 Rick And Morty Wiki](https://github.com/The-Katsu/RickAndMortyWiki) - net 7, Blazor WASM, GraphQL.Client
+
 
 ##  Fun fact ⚡
 
