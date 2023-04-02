@@ -14,8 +14,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
 ## My pet projects 🚧  
-[🧙‍♂️ League Of Legends API](https://github.com/The-Katsu/LeagueOfLegendsApi) - net 6, DDD, REST & GraphQL, NHibernate 5    
 [🔫 Rick And Morty Wiki](https://github.com/The-Katsu/RickAndMortyWiki) - net 7, Blazor WASM, GraphQL.Client  
+[🧙‍♂️ League Of Legends API](https://github.com/The-Katsu/LeagueOfLegendsApi) - net 6, DDD, REST & GraphQL, NHibernate 5    
 [📁 Folder Size Explorer](https://github.com/The-Katsu/FolderSizeExplorer) - fx 4.8, WPF, MVVM.  
 
 
